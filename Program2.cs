@@ -6,7 +6,9 @@ namespace Kalkulator
     {
         static void Main(string[] args)
         {
-            Console.Title = "Aplikasi Kalkulator by Adi Zaenul";
+            Console.Title = "Aplikasi Kalkulator by Indra Bagus Setiawan";
+	    Console.WriteLine("NIM : 18.11.2268 ");
+	    Console.WriteLine("Informatika 7 ");
             Console.WriteLine("Pilih menu kalkulator :");
             Console.WriteLine();
 
